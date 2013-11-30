@@ -228,7 +228,58 @@ ThingsExtravaganza.addTopic = function () {
                     name:"Cleaning".localize("game topic"),
                     genreWeightings: [0.7, 0.7, 0.7, 0.7, 0.7, 1],
                     audienceWeightings: [1, 1, 0.7]
-                }, {        
+                }, {
+                    id:"Navy",
+                    name:"Navy".localize("game topic"),
+                    genreWeightings: [1, 0.8, 0.8, 0.7, 1, 0.6],
+                    audienceWeightings: [0.7, 0.8, 1]
+                }, {
+                          id:"Tanks",
+                          name:"Tanks".localize("game topic"),
+                          genreWeightings: [1, 0.8, 0.7, 0.7, 0.6],
+                          audienceWeightings: [0.7, 0.8, 1]
+                }, {
+                          id:"Marriage",
+                          name:"Marriage".localize("game topic"),
+                          genreWeightings: [0.6, 0.6, 0.7, 1, 0.8, 1],
+                          audienceWeightings: [0.7, 1, 0.7]
+                }, {
+                          id:"Island Life",
+                          name:"Island Life".localize("game topic"),
+                          genreWeightings: [0.6, 0.8, 0.9, 1, 0.8, 1],
+                          audienceWeightings: [0.8, 0.9, 0.9]
+                }, {
+                          id:"Fish",
+                          name:"Fish".localize("game topic"),
+                          genreWeightings: [0.6, 0.7, 0.6, 1, 0.7, 1],
+                          audienceWeightings: [1, 0.9, 0.8]
+                }, {
+                          id:"Universe",
+                          name:"Universe".localize("game topic"),
+                          genreWeightings: [0.7, 0.7 ,0.7, 1, 1, 1],
+                          audienceWeightings: [0.8, 0.8, 0.8]
+                }, {
+                          id:"Exploration",
+                          name:"Exploration".localize("game topic"),
+                          genreWeightings: [1, 1, 1, 0.7, 0.7, 1]
+                          audienceWeightings: [0.8, 1, 1]
+                }, {
+                          id:"Blocks",
+                          name:"Blocks".localize("game topic"),
+                          genreWeightings: [0.8, 0.8, 0.8, 0.8, 0.8, 0.8],
+                          audienceWeightings: [0.8, 0.8 ,0.8]
+                }, {
+                          id:"Reading",
+                          name:"Reading".localize("game topic"),
+                          genreWeightings: [0.8, 0.8, 0.8, 0.8, 0.8, 1],
+                          audienceWeightings: [1, 1, 0.7]
+                }, {
+                          id:"Tabletop",
+                          name:"Tabletop".localize("game topic"),
+                          genreWeightings: [1, 1, 1, 0.9, 0.7, 1],
+                          audienceWeightings: [0.7, 1, 1]
+                }, {
+                        
                 }]);
         };
            ThingsExtravaganza.addResearch = function () {
