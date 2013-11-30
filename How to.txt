@@ -1,0 +1,19 @@
+How to install the mod:
+
+Steam:
+
+
+Download the mod.
+Go to you steam folder Go into /steamapps/common/Game Dev Tycoon/mods.
+Paste the ThingsExtravaganza folder in the mods folder.
+Extract it.
+Start GDT and go to the main menu Select mods Click on 'Things Extravaganza' so it becomes blue.
+Restart GDT and enjoy the mod!
+
+Without steam (Desktop):
+Download the mod.
+Go to your GDT install directory. *This is not the folder in appdata/locallow/Game Dev Tycoon
+Paste ThingsExtravaganza folder into the mods folder.
+Extract it.
+Start GDT and go to the main menu. Select mods, and click on "Things Extravaganza" so it becomes blue.
+Restart GDT and enjoy the mod!
