@@ -1,4 +1,55 @@
-Things-Extravaganza
+Things Extravaganza
 ===================
 
-A mod for GDT, or Game Dev Tycoon.
+A mod by apljee
+
+
+Version 1.0:
+~ Added the following topics:
+Tower Defence
+Hit & Run
+Hitman
+Theft
+Farming
+Turn Based Strategy
+Real Time Strategy
+Management
+Cooking
+Airplane
+Tower Building
+Construction
+God
+Mining
+Digging
+Tycoon
+Guitar
+Dogfight
+Monsters
+Educational
+Christmas/X-mas
+Cleaning
+Navy
+Tanks
+Marriage
+Island Life
+Fish
+Universe
+Exploration
+Blocks
+Reading
+Tabletop
+Cards
+Magic
+Summer Sports
+Winter Sports
+Candy Making
+Werepyre
+Baby
+
+Platforms:
+
+Pixel Cube (Y10 M4 W4)
+Pixel Cube HD (Y15 M12 W3)
+Pixel Cube MLG (Y21 M12 W4)
+Pixel Cube Holo (Y37 M6 W2)
+Mist Box (Y40, M7, W3)
