@@ -1,0 +1,9 @@
+{
+        "id" : "ThingsExtravaganza",
+        "name" : "Things Extravaganza",
+        "version":"1.0",
+        "author":"apljee, Founder & Head of Coding",
+        "url":"https://github.com/apljee/Things-Extravaganza/",
+        "description" : "An extravaganza of things!",
+        "main" : "./ThingsExtravaganza.js"
+}
